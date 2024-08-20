@@ -28,6 +28,8 @@ Pre-configured to use 23 optional shells (FREE MLOs).
 You might want to remove conflicting teleporters from online-interiors/client/teleports.lua
 
 ## Optional Dependencies
+This script is meant to be used with my upcoming versions of qb-apartments, qb-houses and qb-garages.
+
 This script is pre-configured for the following free MLOs.
 
 Install the ones you like and uncomment the corresponding lines within qb-interior/client/main.lua
@@ -44,6 +46,13 @@ Install the ones you like and uncomment the corresponding lines within qb-interi
 - [Chumash house](https://forum.cfx.re/t/free-mlo-chumash-house/5074430)
 - [Vespucci Therapist Office](https://forum.cfx.re/t/mlo-interior-vespucci-therapist-office-free/4813982)
 - [Vespucci Beach Condo](https://www.gta5-mods.com/maps/mlo-vespucci-beach-condo)
+
+## Notice
+I modified this script for fun to play wih friends.
+
+I have a busy professional and personal life. Therefore, I might not provide support or update this script.
+
+Still, this script is absolutely free, as mods should always be. I think it is also better than 90% of the paid scripts scammers would have you pay $70 for.
 
 ## Licence
     This program is free software: you can redistribute it and/or modify
