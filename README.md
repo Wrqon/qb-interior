@@ -28,8 +28,6 @@ Pre-configured to use 23 optional shells (FREE MLOs).
 You might want to remove conflicting teleporters from online-interiors/client/teleports.lua
 
 ## Optional Dependencies
-This script is meant to be used with my upcoming versions of qb-apartments, qb-houses and qb-garages.
-
 This script is pre-configured for the following free MLOs.
 
 Install the ones you like and uncomment the corresponding lines within qb-interior/client/main.lua
